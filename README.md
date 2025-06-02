@@ -31,3 +31,7 @@ This project implements a binary image classifier using Keras and TensorFlow to 
 Install with:
 
 pip install tensorflow numpy opencv-python matplotlib
+
+  ----- Dataset -----
+
+Download the datasets from (https://www.kaggle.com/datasets/pcbreviglieri/pneumonia-xray-images?select=val)
