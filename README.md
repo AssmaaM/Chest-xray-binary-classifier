@@ -44,5 +44,5 @@ Download the datasets from (https://www.kaggle.com/datasets/pcbreviglieri/pneumo
 
   ----- Run the app using anaconda prompt ------
 
--browse into the python file app directory 
--run the following command streamlit run XrayClassifierStremlit.py
+- browse into the python file app directory 
+- run the following command streamlit run XrayClassifierStremlit.py
