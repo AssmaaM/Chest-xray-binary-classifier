@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/286dd9be-1595-4b91-be03-ac8d3e5189bc)
-<img width="300" alt="Xray" src="https://github.com/user-attachments/assets/44c44b59-a196-4fde-891c-b3d7a05e8576" />
+
+<img width="300" alt="Xray" src="https://github.com/user-attachments/assets/9216e15e-86b7-414e-96f4-914e6742a0bb" />
 
 This project implements a binary image classifier using Keras and TensorFlow to detect lung opacity from chest X-ray images using two approachs :
 1-buuliding from scratch a CNN model 
