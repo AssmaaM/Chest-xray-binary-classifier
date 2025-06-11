@@ -1,4 +1,7 @@
-This project implements a binary image classifier using Keras and TensorFlow to detect lung opacity from chest X-ray images
+
+<img width="300" alt="Xray" src="https://github.com/user-attachments/assets/44c44b59-a196-4fde-891c-b3d7a05e8576" />
+
+This project implements a binary image classifier using Keras and TensorFlow to detect lung opacity from chest X-ray images using Streamlit for better visualisation
 
   ----- Classes -----
 - Normal: No signs of opacity.
@@ -27,6 +30,7 @@ This project implements a binary image classifier using Keras and TensorFlow to 
 - NumPy
 - OpenCV (for image preprocessing)
 - Matplotlib
+- streamlit
 
 Install with:
 
